@@ -1,4 +1,0 @@
-[ZoneTransfer]
-ZoneId=3
-ReferrerUrl=https://github.com/microverseinc/linters-config/tree/master/ror
-HostUrl=https://github.com/microverseinc/linters-config/blob/master/ror/.github/workflows/linters.yml
